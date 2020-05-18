@@ -1,0 +1,3 @@
+[submodule "themes/anubis"]
+	path = themes/anubis
+	url = https://github.com/cardosoana/hugo-theme-anubis.git
