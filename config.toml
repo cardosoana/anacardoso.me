@@ -1,4 +1,50 @@
 baseURL = "https://www.anacardoso.me"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "Ana Cardoso | Blog"
 theme = "anubis"
+name = "Anubis"
+features = ["blog"]
+paginate = 3
+
+DefaultContentLanguage = "pt"
+defaultContentLanguageInSubdir = true
+
+[author]
+  name = "Ana Cardoso"
+
+[params]
+   author = "Ana Cardoso"
+   description = "Personal Blog"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "menu.about"
+    url = "about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "menu.tags"
+    url = "tags/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "menu.archive"
+    url = "posts/"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[languages]
+  [languages.pt]
+    languageName = "PT"
+    contentDir = "content/pt"
+    weight = 1
+
+  [languages.en]
+    languageName = "EN"
+    contentDir = "content/en"
+    weight = 2
