@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.anacardoso.me/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.anacardoso.me/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.anacardoso.me/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.anacardoso.me/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.anacardoso.me/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.anacardoso.me/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.anacardoso.me/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.anacardoso.me/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.anacardoso.me/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.anacardoso.me/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.anacardoso.me/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.anacardoso.me/en/tags/"
+                />
+  </url>
+  
+</urlset>

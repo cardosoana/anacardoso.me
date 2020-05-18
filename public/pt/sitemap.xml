@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.anacardoso.me/pt/posts/my-first-post/</loc>
+    <lastmod>2020-05-17T23:16:47-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anacardoso.me/pt/posts/</loc>
+    <lastmod>2020-05-17T23:16:47-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anacardoso.me/pt/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anacardoso.me/pt/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.anacardoso.me/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.anacardoso.me/pt/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.anacardoso.me/pt/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.anacardoso.me/pt/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.anacardoso.me/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.anacardoso.me/pt/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.anacardoso.me/pt/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.anacardoso.me/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.anacardoso.me/pt/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.anacardoso.me/pt/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.anacardoso.me/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.anacardoso.me/pt/tags/"
+                />
+  </url>
+  
+</urlset>

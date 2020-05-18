@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Cardoso | Blog</title>
+    <link>https://www.anacardoso.me/pt/</link>
+    <description>Ana Cardoso | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://www.anacardoso.me/pt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://www.anacardoso.me/pt/posts/my-first-post/</link>
+      <pubDate>Sun, 17 May 2020 23:16:47 -0300</pubDate>
+      
+      <guid>https://www.anacardoso.me/pt/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.anacardoso.me/pt/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anacardoso.me/pt/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.anacardoso.me/pt/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anacardoso.me/pt/about/</guid>
+      <description>&lt;p&gt;Alguma Coisa em Português&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
