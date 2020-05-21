@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ana Cardoso | Blog</title>
+    <link>https://www.anacardoso.me/en/posts/</link>
+    <description>Ana Cardoso | Blog (Posts)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 17 May 2020 23:16:47 -0300</lastBuildDate>
+    
+    <atom:link href="https://www.anacardoso.me/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://www.anacardoso.me/en/posts/my-first-post/</link>
+      <pubDate>Sun, 17 May 2020 23:16:47 -0300</pubDate>
+      
+      <guid>https://www.anacardoso.me/en/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

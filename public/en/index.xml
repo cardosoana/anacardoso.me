@@ -6,9 +6,38 @@
     <description>Ana Cardoso | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
     <atom:link href="https://www.anacardoso.me/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://www.anacardoso.me/en/posts/my-first-post/</link>
+      <pubDate>Sun, 17 May 2020 23:16:47 -0300</pubDate>
+      
+      <guid>https://www.anacardoso.me/en/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.anacardoso.me/en/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anacardoso.me/en/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.anacardoso.me/en/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anacardoso.me/en/about/</guid>
+      <description>&lt;p&gt;Alguma Coisa em Português&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
