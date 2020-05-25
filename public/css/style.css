@@ -45,15 +45,15 @@ main {
 
 /* Headers */
 h1 {
-    font-size: 1.35em;
-}
+    font-size: 1.4em;
+  }
 
 h2 {
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 h3 {
-    font-size: 1.1em;
+    font-size: 1.0em;
 }
 
 /* Links */
@@ -70,14 +70,12 @@ a:hover {
 
 a:hover,
 a:focus {
-    color: #BFD8A9;
-    border-bottom: 1px solid #BFD8A9;
+    color: #ffd117;
 }
 
 a:active {
-    color: #BFD8A9;
+    color: #ffd117;
     opacity: 0.9;
-    border-bottom: 1px solid #BFD8A9;
 }
 
 a.skip-main {
@@ -99,7 +97,6 @@ a.skip-main:active {
     overflow:auto;
     z-index:999;
     padding: 4px 6px 4px 6px;
-    text-decoration: underline;
     border: none;
 }
 
@@ -138,6 +135,12 @@ kbd {
     line-height: 154%;
 }
 
+p code {
+  background-color: #f1f1f1;
+  padding: 0.2em;
+  border-radius: 2px;
+}
+
 /* Styles */
 
 blockquote {
@@ -169,20 +172,20 @@ header {
 }
 
 header h1 {
-    font-size: 1em;
+    font-size: 1.1em;
     margin-top: 1em;
     margin-bottom: 0;
     font-weight: normal;
 }
 
 header h2 {
-    font-size: 1em;
+    font-size: 1.1em;
     margin: 0;
     font-weight: normal;
 }
 
 header nav {
-    margin-top: 1em;
+    margin-top: 1.1em;
     max-width: 100%;
     text-align: right;
     margin-bottom: 1em;
@@ -193,7 +196,7 @@ header nav a {
 }
 
 header nav a.language {
-  color: #BFD8A9;
+  color: #ffd117;
   font-size: 14px;
   margin-left: 0.5em;
 }
@@ -232,10 +235,12 @@ article:not(:last-of-type) {
 }
 
 article header h1 {
-    font-size: 1.35em;
+    font-size: 1.4em;
     line-height: 1.1em;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.2em;
     font-weight: 600;
+    padding-bottom: 0.3em;
+    border-bottom: #f1f1f1 solid 3px;
 }
 
 article header h1 a {
@@ -255,7 +260,7 @@ article header h1 a {
 }
 
 .article-info a:hover {
-    color: #BFD8A9;
+    color: #ffd117;
 }
 
 .post-short-list .article-info {
@@ -347,7 +352,7 @@ article img {
 }
 
 .pagination-item a:hover, .pagination-item   a:focus {
-    color: #BFD8A9;
+    color: #ffd117;
     border-bottom: 0;
 }
 
